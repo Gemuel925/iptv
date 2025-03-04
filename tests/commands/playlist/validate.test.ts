@@ -1,4 +1,4 @@
-import { execSync } from 'child_process'
+.m3uimport { execSync } from 'child_process'
 
 type ExecError = {
   status: number
